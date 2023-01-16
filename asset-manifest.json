@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-textbook-gomerch/static/css/main.c3d5249d.css",
+    "main.js": "/goit-textbook-gomerch/static/js/main.44928573.js",
+    "index.html": "/goit-textbook-gomerch/index.html",
+    "main.c3d5249d.css.map": "/goit-textbook-gomerch/static/css/main.c3d5249d.css.map",
+    "main.44928573.js.map": "/goit-textbook-gomerch/static/js/main.44928573.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.44928573.js"
+  ]
+}
