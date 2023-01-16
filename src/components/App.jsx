@@ -1,14 +1,32 @@
 // Core
+import { lazy } from 'react';
 import { Route, Routes } from 'react-router-dom';
 
-// Pages
-import { Home, About, Products, NotFound, ProductDetails } from 'pages';
-
 // Components
-import { Mission } from './Mission';
-import { Team } from './Team';
-import { Reviews } from './Reviews';
 import { SharedLayout } from './SharedLayout';
+
+const Mission = lazy(() =>
+  import('./Mission').then(module => {
+    return { ...module, default: module.Mission };
+  })
+);
+const Team = lazy(() =>
+  import('./Team').then(module => {
+    return { ...module, default: module.Team };
+  })
+);
+const Reviews = lazy(() =>
+  import('./Reviews').then(module => {
+    return { ...module, default: module.Reviews };
+  })
+);
+
+// Pages
+const Home = lazy(() => import('../pages/Home'));
+const About = lazy(() => import('../pages/About'));
+const Products = lazy(() => import('../pages/Products'));
+const NotFound = lazy(() => import('../pages/NotFound'));
+const ProductDetails = lazy(() => import('../pages/Home'));
 
 export const App = () => {
   return (
