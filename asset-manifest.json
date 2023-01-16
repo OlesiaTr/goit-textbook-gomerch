@@ -1,13 +1,29 @@
 {
   "files": {
     "main.css": "/goit-textbook-gomerch/static/css/main.c3d5249d.css",
-    "main.js": "/goit-textbook-gomerch/static/js/main.44928573.js",
+    "main.js": "/goit-textbook-gomerch/static/js/main.a34ab136.js",
+    "static/js/488.a7f7a278.chunk.js": "/goit-textbook-gomerch/static/js/488.a7f7a278.chunk.js",
+    "static/js/37.4898c8ea.chunk.js": "/goit-textbook-gomerch/static/js/37.4898c8ea.chunk.js",
+    "static/js/122.7e5945bb.chunk.js": "/goit-textbook-gomerch/static/js/122.7e5945bb.chunk.js",
+    "static/js/415.71aeb65c.chunk.js": "/goit-textbook-gomerch/static/js/415.71aeb65c.chunk.js",
+    "static/js/175.0184f867.chunk.js": "/goit-textbook-gomerch/static/js/175.0184f867.chunk.js",
+    "static/js/220.3d2a4078.chunk.js": "/goit-textbook-gomerch/static/js/220.3d2a4078.chunk.js",
+    "static/js/805.7996425a.chunk.js": "/goit-textbook-gomerch/static/js/805.7996425a.chunk.js",
+    "static/js/128.a3d194f7.chunk.js": "/goit-textbook-gomerch/static/js/128.a3d194f7.chunk.js",
     "index.html": "/goit-textbook-gomerch/index.html",
     "main.c3d5249d.css.map": "/goit-textbook-gomerch/static/css/main.c3d5249d.css.map",
-    "main.44928573.js.map": "/goit-textbook-gomerch/static/js/main.44928573.js.map"
+    "main.a34ab136.js.map": "/goit-textbook-gomerch/static/js/main.a34ab136.js.map",
+    "488.a7f7a278.chunk.js.map": "/goit-textbook-gomerch/static/js/488.a7f7a278.chunk.js.map",
+    "37.4898c8ea.chunk.js.map": "/goit-textbook-gomerch/static/js/37.4898c8ea.chunk.js.map",
+    "122.7e5945bb.chunk.js.map": "/goit-textbook-gomerch/static/js/122.7e5945bb.chunk.js.map",
+    "415.71aeb65c.chunk.js.map": "/goit-textbook-gomerch/static/js/415.71aeb65c.chunk.js.map",
+    "175.0184f867.chunk.js.map": "/goit-textbook-gomerch/static/js/175.0184f867.chunk.js.map",
+    "220.3d2a4078.chunk.js.map": "/goit-textbook-gomerch/static/js/220.3d2a4078.chunk.js.map",
+    "805.7996425a.chunk.js.map": "/goit-textbook-gomerch/static/js/805.7996425a.chunk.js.map",
+    "128.a3d194f7.chunk.js.map": "/goit-textbook-gomerch/static/js/128.a3d194f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
-    "static/js/main.44928573.js"
+    "static/js/main.a34ab136.js"
   ]
 }
